@@ -1,0 +1,141 @@
+{
+  "version": "v1.0.0",
+  "entity": {
+    "type": "organisation",
+    "role": "owner",
+    "name": "Code Forge Temple",
+    "email": "code.forge.temple+funding@gmail.com",
+    "phone": "",
+    "description": "Code Forge Temple is an open-source software initiative focused on privacy-first AI automation tools.",
+    "webpageUrl": {
+      "url": "https://github.com/code-forge-temple"
+    }
+  },
+  "projects": [
+    {
+      "guid": "agentic-signal",
+      "name": "Agentic Signal",
+      "description": "Agentic Signal is a privacy-first AI workflow automation platform that allows users to run local LLMs (via Ollama) to automate tasks while keeping all data within their own network.",
+      "webpageUrl": {
+        "url": "https://github.com/code-forge-temple/agentic-signal"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/code-forge-temple/agentic-signal"
+      },
+      "licenses": [
+        "spdx:AGPL-3.0"
+      ],
+      "tags": [
+        "ai",
+        "automation",
+        "workflow",
+        "privacy",
+        "llm",
+        "local-ai"
+      ]
+    },
+    {
+      "guid": "scribe-pal",
+      "name": "ScribePal",
+      "description": "ScribePal is an Open Source intelligent browser extension that leverages AI to empower your web experience by providing contextual insights, efficient content summarization, and seamless interaction while you browse. It works with local Ollama models, ensuring privacy by keeping all AI processing within your local network.",
+      "webpageUrl": {
+        "url": "https://github.com/code-forge-temple/scribe-pal"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/code-forge-temple/scribe-pal"
+      },
+      "licenses": [
+        "spdx:GPL-3.0"
+      ],
+      "tags": [
+        "ai",
+        "browser-extension",
+        "privacy",
+        "llm",
+        "local-ai",
+        "ollama",
+        "chat",
+        "automation",
+        "chrome-extension",
+        "firefox-addon"
+      ]
+    },
+    {
+      "guid": "local-llm-npc",
+      "name": "Local LLM NPC",
+      "description": "Local LLM NPC is a privacy-first educational game featuring NPCs powered by Gemma 3n that teach sustainable farming, botany, and environmental topics through interactive conversations. All AI processing happens locally via Ollama, ensuring complete data privacy while providing personalized learning experiences.",
+      "webpageUrl": {
+        "url": "https://github.com/code-forge-temple/local-llm-npc"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/code-forge-temple/local-llm-npc"
+      },
+      "licenses": [
+        "spdx:MIT"
+      ],
+      "tags": [
+        "ai",
+        "education",
+        "gaming",
+        "npc",
+        "privacy",
+        "llm",
+        "local-ai",
+        "ollama",
+        "gemma",
+        "godot"
+      ]
+    },
+    {
+      "guid": "circuit-sketcher-obsidian-plugin",
+      "name": "Circuit Sketcher",
+      "description": "A plugin for Obsidian to draw circuits on a canvas using circuit-sketcher-core. Features include drawing and editing circuit diagrams directly within Obsidian, customizable component library, and the ability to embed circuit diagrams in notes.",
+      "webpageUrl": {
+        "url": "https://github.com/code-forge-temple/circuit-sketcher-obsidian-plugin"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/code-forge-temple/circuit-sketcher-obsidian-plugin"
+      },
+      "licenses": [
+        "spdx:GPL-3.0"
+      ],
+      "tags": [
+        "obsidian",
+        "plugin",
+        "circuit-design",
+        "canvas",
+        "diagram",
+        "react",
+        "typescript",
+        "education",
+        "engineering",
+        "visualization"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "github-sponsors",
+        "type": "payment-provider",
+        "address": "https://github.com/sponsors/code-forge-temple",
+        "description": "Support Code Forge Temple via GitHub Sponsors."
+      }
+    ],
+    "plans": [
+      {
+        "guid": "any-amount",
+        "status": "active",
+        "name": "Support Code Forge Temple",
+        "description": "Any contribution helps fund continued development of Code Forge Temple.",
+        "amount": 0,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": [
+          "github-sponsors"
+        ]
+      }
+    ],
+    "history": null
+  }
+}
