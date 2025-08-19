@@ -4,20 +4,25 @@
 
 ---
 
-## 🚀 Open Source Projects
+## 🚀 My Personal Open Source Projects
 
-- [`Agentic Signal`](https://github.com/code-forge-temple/agentic-signal) Visual AI agent workflow automation platform with local LLM integration - build intelligent workflows using drag-and-drop interface, no cloud dependencies required.
+✦ [`Agentic Signal`](https://github.com/code-forge-temple/agentic-signal) Visual AI agent workflow automation platform with local LLM integration - build intelligent workflows using drag-and-drop interface, no cloud dependencies required.
 
-- [`Local LLM NPC`](https://github.com/code-forge-temple/local-llm-npc) An interactive educational game built for the Google Gemma 3n Impact Challenge.
+✦ [`Local LLM NPC`](https://github.com/code-forge-temple/local-llm-npc) An interactive educational game built for the Google Gemma 3n Impact Challenge.
 
-- [`ScribePal`](https://github.com/code-forge-temple/scribe-pal) Open Source intelligent browser extension that leverages AI to empower your web experience by providing contextual insights, efficient content summarization, and seamless interaction while you browse.
+✦ [`ScribePal`](https://github.com/code-forge-temple/scribe-pal) Open Source intelligent browser extension that leverages AI to empower your web experience by providing contextual insights, efficient content summarization, and seamless interaction while you browse.
 
-- [`Circuit Sketcher - Obsidian Plugin`](https://github.com/code-forge-temple/circuit-sketcher-obsidian-plugin) A plugin for Obsidian to draw circuits on a canvas.
+✦ [`Circuit Sketcher - Obsidian Plugin`](https://github.com/code-forge-temple/circuit-sketcher-obsidian-plugin) A plugin for Obsidian to draw circuits on a canvas.
 
-- [`Circuit Sketcher - Web App`](https://github.com/code-forge-temple/circuit-sketcher-app) A web application to draw circuits on a canvas, based on circuit-sketcher-core.
+✦ [`Circuit Sketcher - Web App`](https://github.com/code-forge-temple/circuit-sketcher-app) A web application to draw circuits on a canvas, based on circuit-sketcher-core.
 
-- [`Circuit Sketcher Core`](https://github.com/code-forge-temple/circuit-sketcher-core) The core for drawing circuits on a canvas.
+✦ [`Circuit Sketcher Core`](https://github.com/code-forge-temple/circuit-sketcher-core) The core for drawing circuits on a canvas.
 
+✦ [`Godot Android Plugin V2`](https://github.com/code-forge-temple/godot-android-plugin-v2) Godot 4 Android plugin example with Java, C#, and GDScript — integrate native Android features into your Godot games.
+
+✦ [`Url to QR Image`](https://github.com/code-forge-temple/url-to-qr-image) This is a sample Chrome extension project built with Manifest Version 3.
+
+💡 See my [Code Forge Temple Repos](https://github.com/code-forge-temple?tab=repositories) for the full list of projects.
 
 ## 💻 Tech Stack
 
