@@ -12,7 +12,7 @@
 
 ✦ [`ScribePal`](https://github.com/code-forge-temple/scribe-pal) Open Source intelligent browser extension that leverages AI to empower your web experience by providing contextual insights, efficient content summarization, and seamless interaction while you browse.
 
-✦ [`Circuit Sketcher - Obsidian Plugin`](https://github.com/code-forge-temple/circuit-sketcher-obsidian-plugin) A plugin for Obsidian to draw circuits on a canvas.
+✦ [`Circuit Sketcher - Obsidian Plugin`](https://github.com/code-forge-temple/circuit-sketcher-obsidian-plugin) A plugin for Obsidian to draw circuits on a canvas, based on circuit-sketcher-core.
 
 ✦ [`Circuit Sketcher - Web App`](https://github.com/code-forge-temple/circuit-sketcher-app) A web application to draw circuits on a canvas, based on circuit-sketcher-core.
 
