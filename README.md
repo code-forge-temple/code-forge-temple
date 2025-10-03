@@ -93,6 +93,11 @@
 <a href="#"><img src="https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Kdenlive-527EB2?logo=kdenlive&logoColor=white"/></a>
 
+### `Payments & Licensing`
+<a href="#"><img src="https://img.shields.io/badge/Paddle-6C2C91?logo=paddle&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Resend-FF5A5F?logo=resend&logoColor=white"/></a>
+
 ## ✨ About
 My mission is to craft open-source software that blends **AI innovation**, **developer tools**, and **indie creativity**.
 - 💡 Building **AI automation platforms** and **local-first privacy tools**.
