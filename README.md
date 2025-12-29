@@ -8,7 +8,7 @@
 
 ✦ [`Agentic Signal`](https://github.com/code-forge-temple/agentic-signal) Visual AI agent workflow automation platform with local LLM integration - build intelligent workflows using drag-and-drop interface, no cloud dependencies required.
 
-✦ [`Local LLM NPC`](https://github.com/code-forge-temple/local-llm-npc) An interactive educational game built for the Google Gemma 3n Impact Challenge.
+✦ [`Local LLM NPC`](https://github.com/code-forge-temple/local-llm-npc) An interactive educational AI game built for the Google Gemma 3n Impact Challenge.
 
 ✦ [`ScribePal`](https://github.com/code-forge-temple/scribe-pal) Open Source intelligent browser extension that leverages AI to empower your web experience by providing contextual insights, efficient content summarization, and seamless interaction while you browse.
 
