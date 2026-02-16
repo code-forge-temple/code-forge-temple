@@ -51,6 +51,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Deno-20232A?logo=deno&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GraphQL%20Yoga-E10098?logo=graphql&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/></a>
